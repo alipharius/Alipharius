@@ -66,19 +66,6 @@
 
 ---
 
-### 🎯 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Alirizza/quantitative-psychology">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alirizza&repo=quantitative-psychology&theme=default" />
-  </a>
-  <a href="https://github.com/Alirizza/learning-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alirizza&repo=learning-projects&theme=default" />
-  </a>
-</p>
-
----
-
 ### 🏫 Education
 
 <p align="center">
