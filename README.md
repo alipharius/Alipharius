@@ -72,7 +72,7 @@
   <img src="https://github.com/Alirizza/Alirizza/blob/main/Tehran.png?raw=true" alt="University of Tehran" width="300"/>
 </p>
 
-<p align="center"><strong>University of Tehran</strong><br>B.Sc. in Psychology<br><em>Focus on quantitative research methods</em></p>
+<p align="center"><strong>University of Tehran</strong><br>B.Sc. in Psychology<br>
 
 ---
 
