@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alireza 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/Alirizza/Alirizza/blob/main/coding.gif?raw=true" width="200" alt="Coding GIF" />
+  <img src="https://github.com/Alirizza/Alirizza/blob/main/coding.gif?raw=true" width="300" alt="Coding GIF" />
 </p>
 
 <p align="center">
