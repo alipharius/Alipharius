@@ -82,7 +82,9 @@
 <p align="center">
   <img src="https://github.com/Alirizza/Alirizza/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
+
 ---
+
 ### 📫 Let’s Connect
 
 <p align="center">
@@ -96,5 +98,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Code+is+a+tool,+business+is+the+engine,+vision+is+the+fuel" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Data+understands+the+what,+psychology+understands+the+why" alt="Animated Typing SVG" />
 </p>
