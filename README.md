@@ -82,7 +82,6 @@
 <p align="center">
   <img src="https://github.com/Alirizza/Alirizza/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
-
 ---
 ### 📫 Let’s Connect
 
