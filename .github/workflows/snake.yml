@@ -8,16 +8,17 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
         
-      - name: Generate snake animation
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Alirizza
@@ -25,10 +26,10 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
           
-      - name: Deploy to output branch
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_dir: ./dist
           publish_branch: output
           force_orphan: true
