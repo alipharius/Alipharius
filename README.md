@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alireza 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/Alirizza/Alirizza/blob/main/coding.gif?raw=true" width="300" alt="Coding GIF" />
+  <img src="https://github.com/Alipharius/Alipharius/blob/main/coding.gif?raw=true" width="300" alt="Coding GIF" />
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@
 ### 🏫 Education
 
 <p align="center">
-  <img src="https://github.com/Alirizza/Alirizza/blob/main/Tehran.png?raw=true" alt="University of Tehran" width="300"/>
+  <img src="https://github.com/Alipharius/Alipharius/blob/main/Tehran.png?raw=true" alt="University of Tehran" width="300"/>
 </p>
 
 <p align="center"><strong>University of Tehran</strong><br>B.Sc. in Psychology<br>
@@ -63,7 +63,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/Alirizza/Alirizza/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
+  <img src="https://github.com/Alipharius/Alipharius/blob/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
 </p>
 
 ---
