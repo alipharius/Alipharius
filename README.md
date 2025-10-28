@@ -5,30 +5,20 @@
 </p>
 
 <p align="center">
-  🎓 Psychology Student @ University of Tehran
+ Psychology Student @ University of Tehran
 </p>
 
 ---
 
-### 🧠 About Me
+### About Me
 
-- I'm passionate about the **intersection of psychology and data science**
-- Building tools to understand human behavior through quantitative methods
-- Currently learning: **Python, SQL, and data analysis** for psychological research
-- Long-term goal: Become a psychologist who speaks the language of data
-
+I’m interested in the connection between psychology and data science.
+I enjoy using data to understand human behavior and building small projects around that.
+I’m currently learning Python, SQL, and data analysis for use in psychological research.
+My goal is to become a psychologist skilled in data and technology.
 ---
 
-### 🔬 My Approach
-
-- **Research-minded** - Applying scientific thinking to code and data
-- **Domain-focused** - Building tools that actually help psychological research  
-- **Learning in public** - Documenting my journey from psychology to data science
-- **Psychology-informed** - Using behavioral insights to build better tools
-
----
-
-### 🛠️ Tech Stack I'm Learning
+### Tech Stack I'm Learning
 
 <p align="center">
   <!-- Core Languages -->
@@ -52,7 +42,7 @@
 
 ---
 
-### 🏫 Education
+### Education
 
 <p align="center">
   <img src="https://github.com/Alipharius/Alipharius/blob/main/Tehran.png?raw=true" alt="University of Tehran" width="300"/>
@@ -68,7 +58,7 @@
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 <p align="center">
   <a href="mailto:re.alireza1729@gmail.com" target="_blank">
