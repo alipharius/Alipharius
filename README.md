@@ -13,9 +13,8 @@
 ### About Me
 
 I’m interested in the connection between psychology and data science.
-I enjoy using data to understand human behavior and building small projects around that.
-I’m currently learning Python, SQL, and data analysis for use in psychological research.
-My goal is to become a psychologist skilled in data and technology.
+I’m currently learning Python and data science.
+
 
 ---
 
